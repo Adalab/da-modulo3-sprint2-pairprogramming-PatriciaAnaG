@@ -46,4 +46,4 @@ df_juntos = sp.juntar_df(df_ventas, df_clientes, df_productos)
 df_juntos
 
 # %%
-
+5
